@@ -1,0 +1,7 @@
+sentence = input("Type a Sentence: ")
+sentence = sentence.lower()
+print("Count of Letter \"a\"",sentence.count("a"))
+print("Count of Letter \"e\"",sentence.count("e"))
+print("Count of Letter \"i\"",sentence.count("i"))
+print("Count of Letter \"o\"",sentence.count("o"))
+print("Count of Letter \"u\"",sentence.count("u"))
